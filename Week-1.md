@@ -14,7 +14,7 @@
    - Mobile App dataset
     - Personal Logging
 
-# Types of Dataset
+## Types of Dataset
 - Structured
   - Databases
   - Shapefiles
