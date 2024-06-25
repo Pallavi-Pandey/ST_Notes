@@ -1,0 +1,18 @@
+- What are the steps of creating a Software or Main Activities of SDLC in order?
+- Name some  models which we use for implementing SDLC
+- What is V-Model?
+- What's the difference between V-model and traditional Waterfall Model?
+- How Agile Model is efficient?
+- What are different types of testing?
+- Name two testing Methods?
+- What's the difference between black-box and white-box?
+- Name the types of Test activities?
+- What are the five level's of testing?
+- What is Controllability and Observability?
+- Wat is prefix values and postfix values in test automation?
+- What is verification value and exit value in postfix values?
+- What is JUnit? Where we use it?
+- What are Text fixtures in JUnit? Give some examples?
+- What is data driven test?
+- There was an error detected in a software that has been developed and deployed. This error was fixed by the software developer. After fixing the error the developer wants to test that the whole system is working correctly, this testing is typically referred to as ______.
+- You want to develop an Android app that contains only one button. On pressing this button the whole screen turns white if its black, and turns black if its white. Initially when the app is started the screen is white. Your job is to develop this app and test the correctness, and complete this process quickly. What is the minimum level of testing that should be sufficient while not compromising on the correctness.
